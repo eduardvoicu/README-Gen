@@ -18,7 +18,7 @@ function generateMarkdown(answers) {
 
   ## Table of Contents
   1. [Description](#Description)
-  2. [Installation](#Installation)
+  2. [Installation](#Installation-Instructions)
   3. [Usage](#Usage)
   4. [Contribution Guidelines](#Contribution-Guidelines)
   5. [Test Instructions](#Test-Instructions)
@@ -28,7 +28,27 @@ function generateMarkdown(answers) {
   ## Description
   - ${answers.description}
 
+  ## Installation Instructions
+  - ${answers.installInstruction}
+
+  ## Usage
+  - ${answers.useInfo}
+
+  ## Contribution Guidelines
+  - ${answers.contribution}
+
+  ## Test Instructions
+  - ${answers.testInstruction}
+
+  ## License Policy
+  - ${answers.license}
+
+  ## Questions
+  - GitHub: <a href="https://github.com/${answers.GitHub}">My GitHub!</a><br>
+  - E-mail: ${answers.email}<br>
+  **Thank you for checking out this application**
+
 `;
-}
+};
 
 module.exports = generateMarkdown;
