@@ -16,7 +16,40 @@ const questions = [{
     "type": "input",
     "name": "installInstruction",
     "message": "Provide installation instructions for your application.",
-}];
+},
+{
+    "type": "input",
+    "name": "useInfo",
+    "message": "Provide information of application usage.",
+},
+{
+    "type": "input",
+    "name": "contribution",
+    "message": "Provide contribution guidelines in regards to your application."
+},
+{
+    "type": "input",
+    "name": "testInstruction",
+    "message": "Provide test instructions for your application."
+
+},
+{
+    "type": "list",
+    "name": "license",
+    "message": "Please choose a license for your application.",
+    "choices": ["ISC", "MIT", "N/A"],
+},
+{
+    "type": "input",
+    "name": "GitHub",
+    "message": "What is your GitHub username?",
+},
+{
+    "type": "input",
+    "name": "email",
+    "message": "What is your email address?",
+}
+];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
