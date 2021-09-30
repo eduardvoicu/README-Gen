@@ -2,9 +2,9 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
     if (license === 'MIT') {
-      return '[![License: MIT]](https://img.shields.io/npm/l/readme-gen?style=for-the-badge)'
+      return '[![License: MIT](https://img.shields.io/npm/l/readme-gen?style=for-the-badge)](https://opensource.org/licenses/MIT)'
     } else if (license === 'ISC'){
-      return '[![License: ISC]]()'
+      return '[![License: ISC]](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)'
     } else (license === 'N/A')
       return 'No License'
     }
@@ -65,6 +65,7 @@ function generateMarkdown(answers) {
 
   ## License Policy
   - ${answers.license}
+  - ${renderLicenseLink(answers.license)}
 
   ## Questions
   - GitHub: <a href="https://github.com/${answers.GitHub}">My GitHub!</a><br>
