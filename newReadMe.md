@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/npm/l/readme-gen?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-  # test
+  # test project
 
   ## Table of Contents
   1. [Description](#Description)
@@ -12,19 +12,19 @@
   7. [Questions](#Questions)
 
   ## Description
-  - test
+  - testing
 
   ## Installation Instructions
-  - test
+  - just install
 
   ## Usage
-  - test
+  - open source
 
   ## Contribution Guidelines
-  - test
+  - anyone can do it
 
   ## Test Instructions
-  - test
+  - test as needed
 
   ## License Policy
   - MIT
@@ -36,7 +36,7 @@
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
   ## Questions
-  - GitHub: <a href="https://github.com/test">My GitHub!</a><br>
-  - E-mail: testemail<br>
+  - GitHub: <a href="https://github.com/eduardvoicu">My GitHub!</a><br>
+  - E-mail: testing@email.com<br>
   **Thank you for checking out this application**
 

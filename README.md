@@ -13,9 +13,9 @@ This application was created to allow any software developer user create a clean
 
 ## Video Walkthrough
 - Walkthrough of HOW the app works via the terminal interface
-![Watch Here]()
+![Watch Here](https://vimeo.com/620824734/33ded34086)
 - Walkthrough of final product (aka ReadMe.md) will look like in GitHub after `GIT PUSH` is executed
-![Watch Here]()
+![Watch Here](https://vimeo.com/620827144/40d128fca9)
 
 ## User Story
 ```
